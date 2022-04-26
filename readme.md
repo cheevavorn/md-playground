@@ -1,6 +1,6 @@
 # Register app
 
-Markdown is lightweight markup language that you can use to add formatting elements to plaintext [John Gruber](https://www.google.co.th)
+Markdown is lightweight markup language that you can use to add formatting elements to plaintext [John Gruber](https://www.google.co.th){:target="_blank"}
 
 # Header
 
