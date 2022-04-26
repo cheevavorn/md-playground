@@ -53,7 +53,7 @@ console.log("hi");
 
 ```js
 {
-  key: value;
+  key: value
 }
 ```
 
